@@ -1,0 +1,8 @@
+# /content/drive/MyDrive/btp/data.yaml
+path: /content/drive/MyDrive/btp/videos/dataset
+train: images/train
+val: images/val
+
+nc: 57  # number of classes
+names: ['Bathroom','Eat','Father','Fine','Finish', 'Food','Hello','Help','HowAreYou','Learn', 'Like', 'My', 'Name', 'NiceToMeetYou','Please','Repeat','Seeyoulater', 'Sign', 'Thankyou' ,'Want','What','0','1','2','3','4','5','6','7','8','9','10','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+

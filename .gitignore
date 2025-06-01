@@ -1,0 +1,12 @@
+*.pt
+*.weights
+*.log
+__pycache__/
+.DS_Store
+data/raw_videos/
+data/extracted_frames/
+data/augmented/
+data/train/images/
+data/train/labels/
+data/valid/images/
+data/valid/labels/

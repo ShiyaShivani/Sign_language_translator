@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+ultralytics
+scikit-learn
+albumentations
+tqdm
+numpy
+PyYAML
+opencv-python
